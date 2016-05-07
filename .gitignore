@@ -1,0 +1,16 @@
+# TEmp Directory
+x*/
+
+# Teno File
+x*
+*.csv
+
+# ipython
+.ipynb_checkpoints/
+
+# c9 related
+.c9/
+
+
+# base files
+.profile
