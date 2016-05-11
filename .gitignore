@@ -4,7 +4,7 @@ x*/
 # Teno File
 x*
 *.csv
-
+*.log
 # ipython
 .ipynb_checkpoints/
 
